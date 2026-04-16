@@ -11,9 +11,6 @@ description: Einführung in FDM, Leveln, Slicer und erster Druck
 
 ## Einführung, Leveln, Slicer und erster Druck
 
----
-
-![w:80%](../assets/images/workshop-overview.svg)
 
 ---
 
@@ -220,6 +217,15 @@ Ein guter First Layer ist:
 - schlechte Haftung
 - abgelöste erste Schicht
 - Druck bricht früh ab
+
+---
+
+
+![w:80%](../assets/images/firstlayer.jpg)
+
+---
+
+![w:80%](../assets/images/firstlayer.jpg)
 
 ---
 

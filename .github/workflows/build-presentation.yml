@@ -26,7 +26,7 @@ jobs:
         run: |
           mkdir -p dist
           sudo chown -R $(id -u):$(id -g) dist
-          chmod -R u+rwX dist
+          chmod -R o+rwX dist
 
       - name: Build PDF with Marp
         uses: docker://marpteam/marp-cli:v4.0.3

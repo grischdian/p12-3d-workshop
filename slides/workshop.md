@@ -118,33 +118,39 @@ Material, Temperatur und Druckprofil müssen zusammenpassen.
 - geringe Verformung
 - für viele Alltagsmodelle geeignet
 
+**Heute drucken wir mit PLA.**
+
+---
+
 ## Weitere Materialien
 - **PETG:** robuster, etwas anspruchsvoller
 - **TPU:** flexibel, deutlich schwieriger
 - **ASA:** Wetter- und UV-beständig 
-- **Nylon:** Zäh, verschleißfest und gut für technische und mechanisch belastete Teile.
+- **Nylon:** Zäh, verschleißfest für technische u. mechanisch belastete Teile.
 
-**Heute drucken wir mit PLA.**
 
 ---
   
 ## Resin-Materialien
-- **Standard Resin:** Sehr detailreich und gut für Modelle, Figuren und feine Prototypen.
-- **Tough Resin:** Zäher als Standardharz und besser für belastbare Funktionsteile geeignet.
-- **Flexible Resin:** Elastisch und nützlich für weiche, biegbare oder stoßdämpfende Teile.
-- **High Temp Resin:** Für Anwendungen geeignet, bei denen hohe Wärmebeständigkeit wichtig ist.
+- **Standard Resin:** Sehr detailreich für Figuren und feine Prototypen.
+- **Tough Resin:** Zäher und belastbarer als Standard Resin.
+- **Flexible Resin:** Elastisch und biegbar bzw. stoßdämpfende.
+- **High Temp Resin:** Hohe Wärmebeständigkeit.
+
+---
 
 ## Professionelle Polymermaterialien
-- **PA12:** Einer der wichtigsten Industrie-Kunststoffe für belastbare und präzise Bauteile.
-- **PA11:** Noch schlagzäher als PA12 und gut für dynamisch belastete Teile geeignet.
-- **CF-verstärkte Kunststoffe:** Sehr steif und leicht und deshalb beliebt für Vorrichtungen und Strukturteile.
-- **ESD-Materialien:** Speziell für elektronische Umgebungen entwickelt, um statische Entladungen zu vermeiden.
+- **PA12:** Belastbare und präzise Bauteile.
+- **PA11:** Noch schlagzäher als PA12.
+- **CF-verstärkte Kunststoffe:** Sehr steif und leicht für Strukturteile.
+
+---
 
 ## Metallmaterialien
-- **Edelstahl:** Vielseitig, korrosionsbeständig und für viele technische Anwendungen geeignet.
-- **Titan:** Sehr fest bei geringem Gewicht und besonders interessant für Luftfahrt und Medizintechnik.
-- **Aluminium:** Leicht und gut für Bauteile geeignet, bei denen Gewicht reduziert werden soll.
-- **Inconel:** Hochtemperaturbeständig und ideal für extreme industrielle Einsatzbereiche.
+- **Edelstahl:** Vielseitig, korrosionsbeständig.
+- **Titan:** Sehr fest bei geringem Gewicht für Luftfahrt und Medizintechnik.
+- **Aluminium:** Für sehr leichte Bauteile.
+- **Inconel:** Hochtemperaturbeständige Nickel-Chrom(-Super)-Legierung
 
 ---
 

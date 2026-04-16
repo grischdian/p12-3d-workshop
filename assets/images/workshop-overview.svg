@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="P12 3D Workshop overview image">
+  <rect width="1280" height="720" fill="#0f172a"/>
+  <rect x="80" y="80" width="1120" height="560" rx="32" fill="#1e293b"/>
+  <text x="140" y="220" fill="#e2e8f0" font-size="72" font-family="Arial, sans-serif">P12 3D Workshop</text>
+  <text x="140" y="300" fill="#94a3b8" font-size="36" font-family="Arial, sans-serif">Markdown • 3D Assets • PDF Export</text>
+  <circle cx="980" cy="370" r="120" fill="#0ea5e9" opacity="0.85"/>
+  <rect x="860" y="250" width="240" height="240" fill="none" stroke="#38bdf8" stroke-width="10"/>
+</svg>

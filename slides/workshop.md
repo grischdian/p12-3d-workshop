@@ -225,7 +225,7 @@ Ein guter First Layer ist:
 
 ---
 
-![w:80%](../assets/images/firstlayer.jpg)
+![w:80%](../assets/images/firstlayer2.jpg)
 
 ---
 

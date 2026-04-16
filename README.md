@@ -12,11 +12,11 @@ This repository contains:
 ## Build the presentation locally
 
 ```bash
-npx @marp-team/marp-cli@latest /home/runner/work/p12-3d-workshop/p12-3d-workshop/slides/workshop.md --pdf --allow-local-files --output /tmp/workshop.pdf
+npx @marp-team/marp-cli@latest slides/workshop.md --pdf --allow-local-files --output workshop.pdf
 ```
 
 ## CI workflow
 
 The workflow file is located at:
 
-- `/home/runner/work/p12-3d-workshop/p12-3d-workshop/.github/workflows/build-presentation.yml`
+- `.github/workflows/build-presentation.yml`

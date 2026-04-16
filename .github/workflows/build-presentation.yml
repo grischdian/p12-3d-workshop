@@ -1,0 +1,40 @@
+name: Build Presentation PDF
+
+on:
+  push:
+    paths:
+      - "slides/**"
+      - "assets/**"
+      - ".github/workflows/build-presentation.yml"
+  pull_request:
+    paths:
+      - "slides/**"
+      - "assets/**"
+      - ".github/workflows/build-presentation.yml"
+  workflow_dispatch:
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        
+      - name: Ensure dist is writable
+        run: |
+          mkdir -p dist
+          sudo chown -R $(id -u):$(id -g) dist
+          chmod -R u+rwX dist
+
+      - name: Build PDF with Marp
+        uses: docker://marpteam/marp-cli:v4.0.3
+        with:
+          args: slides/workshop.md --pdf --allow-local-files --output dist/workshop.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: workshop-pdf
+          path: dist/workshop.pdf

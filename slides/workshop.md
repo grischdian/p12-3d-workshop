@@ -13,6 +13,9 @@ description: Einführung in FDM, Leveln, Slicer und erster Druck
 
 ---
 
+![bg contain](../assets/images/workshop-overview.svg)
+---
+
 # Programmübersicht I 
 
 ## Theorie – ca 30 Minuten
@@ -108,10 +111,6 @@ Material, Temperatur und Druckprofil müssen zusammenpassen.
 
 # Materialien für den Einstieg
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
-
-<div>
-
 ## PLA
 - ideal für Einsteiger
 - leicht zu drucken
@@ -126,9 +125,7 @@ Material, Temperatur und Druckprofil müssen zusammenpassen.
 
 **Heute drucken wir mit PLA.**
 
-</div>
-
-<div>
+---
   
 ## Resin-Materialien
 - **Standard Resin:** Sehr detailreich und gut für Modelle, Figuren und feine Prototypen.
@@ -148,38 +145,6 @@ Material, Temperatur und Druckprofil müssen zusammenpassen.
 - **Aluminium:** Leicht und gut für Bauteile geeignet, bei denen Gewicht reduziert werden soll.
 - **Inconel:** Hochtemperaturbeständig und ideal für extreme industrielle Einsatzbereiche.
 
-</div>
-
-</div>
-
----
-
-
-# Testfolie zweispaltig
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
-
-<div>
-
-## Links
-- Punkt 1
-- Punkt 2
-- Punkt 3
-- Punkt 4
-
-</div>
-
-<div>
-
-## Rechts
-- Punkt A
-- Punkt B
-- Punkt C
-- Punkt D
-
-</div>
-
-</div>
 ---
 
 # Sicherheit beim 3D-Druck

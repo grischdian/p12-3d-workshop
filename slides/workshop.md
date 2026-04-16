@@ -121,7 +121,7 @@ Material, Temperatur und Druckprofil müssen zusammenpassen.
 ## Weitere Materialien
 - **PETG:** robuster, etwas anspruchsvoller
 - **TPU:** flexibel, deutlich schwieriger
-- **ASA:** Wetter- und UV-beständig und deshalb besonders gut für Außenteile geeignet.
+- **ASA:** Wetter- und UV-beständig 
 - **Nylon:** Zäh, verschleißfest und gut für technische und mechanisch belastete Teile.
 
 **Heute drucken wir mit PLA.**
@@ -152,6 +152,34 @@ Material, Temperatur und Druckprofil müssen zusammenpassen.
 
 </div>
 
+---
+
+
+# Testfolie zweispaltig
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
+
+<div>
+
+## Links
+- Punkt 1
+- Punkt 2
+- Punkt 3
+- Punkt 4
+
+</div>
+
+<div>
+
+## Rechts
+- Punkt A
+- Punkt B
+- Punkt C
+- Punkt D
+
+</div>
+
+</div>
 ---
 
 # Sicherheit beim 3D-Druck

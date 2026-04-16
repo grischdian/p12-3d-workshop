@@ -294,6 +294,8 @@ Für den Einstieg eignen sich:
 - Abstand mit Papier prüfen
 - an mehreren Punkten einstellen
 
+---
+
 ## 3. Slicer nutzen
 - Modell laden
 - ausrichten
@@ -337,8 +339,6 @@ Das Papier soll leicht kratzen, aber nicht festklemmen.
 
 # Ziel der Praxis
 
-Am Ende der Praxiseinheit haben die Teilnehmenden:
-
 - das Bett gelevelt oder überprüft
 - ein Modell im Slicer vorbereitet
 - einen ersten Druck gestartet
@@ -347,8 +347,6 @@ Am Ende der Praxiseinheit haben die Teilnehmenden:
 ---
 
 # Zusammenfassung
-
-Heute haben wir gelernt:
 
 - wie FDM-3D-Druck funktioniert
 - welche Bauteile wichtig sind
@@ -368,8 +366,6 @@ Heute haben wir gelernt:
 - praktische Tipps aus dem Alltag
 
 ---
-
-# Danke
 
 ## Jetzt geht es an den ersten Druck
 

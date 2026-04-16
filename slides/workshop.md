@@ -11,34 +11,21 @@ description: Einführung in FDM, Leveln, Slicer und erster Druck
 
 ## Einführung, Leveln, Slicer und erster Druck
 
-**Dauer:** 2 Stunden  
-**Aufteilung:** 30 Minuten Theorie · 90 Minuten Praxis
-
 ---
 
-# Tagesziel
+# Programmübersicht I 
 
-Nach diesem Workshop-Teil können die Teilnehmenden:
-
-- das Grundprinzip des **FDM-3D-Drucks** erklären
-- die wichtigsten Bauteile eines 3D-Druckers benennen
-- einfache Sicherheitsregeln anwenden
-- ein Druckbett leveln
-- den First Layer beurteilen
-- ein Modell im Slicer vorbereiten
-- einen ersten Druck starten
-
----
-
-# Programmübersicht
-
-## Theorie – 30 Minuten
+## Theorie – ca 30 Minuten
 - Einführung in den FDM-3D-Druck
 - Aufbau und Funktionsweise eines 3D-Druckers
 - Materialien, Sicherheit und Druckvorbereitung
 - First Layer und typische Startfehler
 
-## Praxis – 90 Minuten
+--- 
+
+# Programmübersicht II
+
+## Praxis – ca 90 Minuten
 - Druckbett leveln
 - Einführung in den Slicer
 - Modell vorbereiten
@@ -121,6 +108,10 @@ Material, Temperatur und Druckprofil müssen zusammenpassen.
 
 # Materialien für den Einstieg
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
+
+<div>
+
 ## PLA
 - ideal für Einsteiger
 - leicht zu drucken
@@ -130,8 +121,36 @@ Material, Temperatur und Druckprofil müssen zusammenpassen.
 ## Weitere Materialien
 - **PETG:** robuster, etwas anspruchsvoller
 - **TPU:** flexibel, deutlich schwieriger
+- **ASA:** Wetter- und UV-beständig und deshalb besonders gut für Außenteile geeignet.
+- **Nylon:** Zäh, verschleißfest und gut für technische und mechanisch belastete Teile.
 
 **Heute drucken wir mit PLA.**
+
+</div>
+
+<div>
+  
+## Resin-Materialien
+- **Standard Resin:** Sehr detailreich und gut für Modelle, Figuren und feine Prototypen.
+- **Tough Resin:** Zäher als Standardharz und besser für belastbare Funktionsteile geeignet.
+- **Flexible Resin:** Elastisch und nützlich für weiche, biegbare oder stoßdämpfende Teile.
+- **High Temp Resin:** Für Anwendungen geeignet, bei denen hohe Wärmebeständigkeit wichtig ist.
+
+## Professionelle Polymermaterialien
+- **PA12:** Einer der wichtigsten Industrie-Kunststoffe für belastbare und präzise Bauteile.
+- **PA11:** Noch schlagzäher als PA12 und gut für dynamisch belastete Teile geeignet.
+- **CF-verstärkte Kunststoffe:** Sehr steif und leicht und deshalb beliebt für Vorrichtungen und Strukturteile.
+- **ESD-Materialien:** Speziell für elektronische Umgebungen entwickelt, um statische Entladungen zu vermeiden.
+
+## Metallmaterialien
+- **Edelstahl:** Vielseitig, korrosionsbeständig und für viele technische Anwendungen geeignet.
+- **Titan:** Sehr fest bei geringem Gewicht und besonders interessant für Luftfahrt und Medizintechnik.
+- **Aluminium:** Leicht und gut für Bauteile geeignet, bei denen Gewicht reduziert werden soll.
+- **Inconel:** Hochtemperaturbeständig und ideal für extreme industrielle Einsatzbereiche.
+
+</div>
+
+</div>
 
 ---
 

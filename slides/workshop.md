@@ -240,6 +240,29 @@ Ein guter First Layer ist:
 
 ---
 
+# Woher bekomme ich Objekte?
+
+Selber erstellen ;)
+
+https://www.thingiverse.com
+https://www.printables.com
+https://cults3d.com
+https://makerworld.com/de/3d-models
+
+---
+
+# Vom Objekt zum Druck
+
+- 3D-Objekt muss in G-Code umgewandelt werden
+- Von Wo nach Wo fährt das Hotend und gibt Menge X an Filament aus
+- Layer für Layer muss beschrieben werden
+
+---
+
+# G-Code
+
+![w:80%](../assets/images/gcode_01.png.webp)
+
 # Was macht ein Slicer?
 
 Ein **Slicer** übersetzt ein 3D-Modell in Druckbefehle für den Drucker.

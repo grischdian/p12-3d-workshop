@@ -13,7 +13,8 @@ description: Einführung in FDM, Leveln, Slicer und erster Druck
 
 ---
 
-![bg contain](../assets/images/workshop-overview.svg)
+![w:80%](../assets/images/workshop-overview.svg)
+
 ---
 
 # Programmübersicht I 
